@@ -4,31 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="604595e6-5ab4-455c-9190-9e85c2ff1a1b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA 06-2024.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementaryProgramming/Exercise_02_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementaryProgramming/Exercise_02_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementaryProgramming/Exercise_02_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementaryProgramming/Exercise_02_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementaryProgramming/Exercise_02_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementaryProgramming/Exercise_02_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementaryProgramming/Exercise_02_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementaryProgramming/Exercise_02_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementaryProgramming/Exercise_02_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementaryProgramming/Exercise_02_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementaryProgramming/Exercise_02_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementaryProgramming/Exercise_02_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementaryProgramming/Exercise_02_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementaryProgramming/Exercise_02_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementaryProgramming/Exercise_02_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementaryProgramming/Exercise_02_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="604595e6-5ab4-455c-9190-9e85c2ff1a1b" name="Changes" comment="23-25-06-2024">
+      <change afterPath="$PROJECT_DIR$/src/Loops/Excercise_04_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Execise_04_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Exercise_04_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Exercise_04_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Exercise_04_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Exercise_04_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Exercise_04_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Exercise_04_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Exercise_04_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/RepeatAdditionQuiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +46,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Excercise_04_01.executor": "Run",
+    "Application.Execise_04_03.executor": "Run",
     "Application.Exercise_02_01.executor": "Run",
     "Application.Exercise_02_02.executor": "Run",
     "Application.Exercise_02_03.executor": "Run",
@@ -73,10 +63,20 @@
     "Application.Exercise_02_14.executor": "Run",
     "Application.Exercise_02_21.executor": "Run",
     "Application.Exercise_02_23.executor": "Run",
+    "Application.Exercise_02_25.executor": "Run",
+    "Application.Exercise_04_02.executor": "Run",
+    "Application.Exercise_04_04.executor": "Run",
+    "Application.Exercise_04_07.executor": "Run",
+    "Application.Exercise_04_08.executor": "Run",
+    "Application.Exercise_04_09.executor": "Run",
+    "Application.Exercise_04_21.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.RepeatAdditionQuiz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jakup/OneDrive/Desktop/java-06-2024",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -86,13 +86,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercise_02_25">
-    <configuration name="Exercise_02_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ElementaryProgramming.Exercise_02_13" />
+  <component name="RunManager" selected="Application.Exercise_04_21">
+    <configuration name="Exercise_04_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.Exercise_04_04" />
       <module name="JAVA 06-2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ElementaryProgramming.*" />
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise_02_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ElementaryProgramming.Exercise_02_14" />
+    <configuration name="Exercise_04_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.Exercise_04_07" />
       <module name="JAVA 06-2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ElementaryProgramming.*" />
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise_02_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ElementaryProgramming.Exercise_02_21" />
+    <configuration name="Exercise_04_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.Exercise_04_08" />
       <module name="JAVA 06-2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ElementaryProgramming.*" />
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise_02_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ElementaryProgramming.Exercise_02_23" />
+    <configuration name="Exercise_04_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.Exercise_04_09" />
       <module name="JAVA 06-2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ElementaryProgramming.*" />
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise_02_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ElementaryProgramming.Exercise_02_25" />
+    <configuration name="Exercise_04_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.Exercise_04_21" />
       <module name="JAVA 06-2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ElementaryProgramming.*" />
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise_02_25" />
-        <item itemvalue="Application.Exercise_02_23" />
-        <item itemvalue="Application.Exercise_02_21" />
-        <item itemvalue="Application.Exercise_02_14" />
-        <item itemvalue="Application.Exercise_02_13" />
+        <item itemvalue="Application.Exercise_04_21" />
+        <item itemvalue="Application.Exercise_04_09" />
+        <item itemvalue="Application.Exercise_04_08" />
+        <item itemvalue="Application.Exercise_04_07" />
+        <item itemvalue="Application.Exercise_04_04" />
       </list>
     </recent_temporary>
   </component>
@@ -179,19 +179,45 @@
       <option name="presentableId" value="Default" />
       <updated>1719082614344</updated>
       <workItem from="1719082615499" duration="11258000" />
-      <workItem from="1719168818326" duration="2468000" />
+      <workItem from="1719168818326" duration="3783000" />
+      <workItem from="1719245287496" duration="11891000" />
+      <workItem from="1719397122146" duration="41000" />
     </task>
+    <task id="LOCAL-00001" summary="23-25-06-2024">
+      <option name="closed" value="true" />
+      <created>1719178836532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719178836532</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="23-25-06-2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="23-25-06-2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
+          <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -203,6 +229,36 @@
           <url>file://$PROJECT_DIR$/src/ElementaryProgramming/Exercise_02_01.java</url>
           <line>8</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Loops/Exercise_04_07.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Loops/Exercise_04_07.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Loops/Exercise_04_07.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Loops/Exercise_04_07.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Loops/Exercise_04_07.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Loops/Exercise_04_07.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
